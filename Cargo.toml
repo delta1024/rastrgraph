@@ -1,0 +1,11 @@
+[package]
+edition = "2018"
+name = "rastrgraph"
+version = "0.1.0"
+#author = "Jacob Stannix"
+
+[dependencies]
+raster = "0.2.0"
+serde-hex = "0.1.0"
+structopt = "0.3.13"
+
