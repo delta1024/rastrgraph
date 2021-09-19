@@ -1,4 +1,4 @@
-#+TITLE: Rastrgraph Nots
+#+TITLE: Rastrgraph
 #+SUBTITLE: Notes on the creating of the rastrgraph application
 
 * Goals
@@ -6,6 +6,6 @@ To creat a an application that will output a basic historgraph of all
 the colors in an image to the commands line with optional prety
 printing, and CSS hex formating.
 * Notes
-** Whtat is color in a binary represention
+** What is color in a binary represention
 [[https://legacy.imagemagick.org/Usage/color_basics/#intro][Image Magik doc]] (not that helpful but an interesting read nontheless)
 [[https://en.wikipedia.org/wiki/RGBA_color_model][Wikipedia page on RGBA binary representation]]
